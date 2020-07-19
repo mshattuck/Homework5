@@ -1,7 +1,5 @@
 # Daily Planner app
 
-## Deployment 
-
 https://mshattuck.github.io/dailyplanner/
 
 ## Technology used
